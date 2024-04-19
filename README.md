@@ -1,8 +1,8 @@
 # Active_Directory
 
 An Active Directory is a database that contains users, computers, groups etc.
-The server must install a service call Active Directory Domain Services (ADDS).
-The service must then be promoted to a Domain Controller aka (DC).
+The server must install a service called Active Directory Domain Services (ADDS).
+This service must then be promoted to a Domain Controller aka (DC).
 By promoting our server to a DC, it will grant us the capability to perform
 authentication using a protocol called Kerberos and authorization for our
 domain.
