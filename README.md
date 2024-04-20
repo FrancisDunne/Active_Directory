@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Active Directory project aimed to design and implement a robust directory service infrastructure to manage and centralize network resources efficiently. The primary focus was to establish secure user authentication, authorization, and access control mechanisms, enhancing overall network security and administrative efficiency.
+The objective of the Active Directory project was to design and implement a robust directory service infrastructure for efficiently managing and centralizing network resources. The primary goal was to establish secure user authentication, authorization, and access control mechanisms, thereby enhancing overall network security and administrative efficiency.
 
 ### Skills Learned
 
@@ -19,12 +19,19 @@ The Active Directory project aimed to design and implement a robust directory se
 - Active Directory Users and Computers (ADUC) for user and group administration.
 - DNS and DHCP services for network infrastructure support.
 
+## Environment Details
+
+- **Target Machine:** Windows 10
+- **Attacker Machine:** Kali Linux
+- **Active Directory Server:** Windows Server 2022
+- **Monitoring Server:** Ubuntu Server 22.04 with Splunk
+- **Virtualization Platform:** VirtualBox
+
 ## Steps
 
 ### Ref 1: Network Diagram
 
-<a href="https://github.com/FrancisDunne/Active_Directory/files/15049021/Diagram.pdf">Diagram.pdf</a>
-
+[View Network Diagram](https://github.com/FrancisDunne/Active_Directory/files/15049021/Diagram.pdf)
 
 This network diagram illustrates the topology of the Active Directory environment, showcasing the placement of domain controllers, organizational units (OUs), and client machines. It provides an overview of the network infrastructure supporting the Active Directory deployment.
 
@@ -57,7 +64,6 @@ This screenshot showcases the configuration of DNS and DHCP services within the 
 [Insert screenshot of Active Directory replication]
 
 This screenshot illustrates the Active Directory Sites and Services management console, focusing on replication settings and site topology configuration. It demonstrates the replication schedule, replication partners, and site link configuration to ensure efficient replication of directory information across distributed domain controllers.
-
 
 
 
