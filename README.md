@@ -23,7 +23,7 @@ The Active Directory project aimed to design and implement a robust directory se
 
 ### Ref 1: Network Diagram
 
-<a href="https://github.com/FrancisDunne/Active_Directory/files/15049021/Diagram.pdf">Diagram.pdf</a>
+<iframe src="https://github.com/FrancisDunne/Active_Directory/files/15049021/Diagram.pdf" width="100%" height="600px"></iframe>
 
 
 This network diagram illustrates the topology of the Active Directory environment, showcasing the placement of domain controllers, organizational units (OUs), and client machines. It provides an overview of the network infrastructure supporting the Active Directory deployment.
