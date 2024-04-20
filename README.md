@@ -31,7 +31,7 @@ The objective of the Active Directory project was to design and implement a robu
 
 ### Ref 1: Network Diagram
 
-[View Network Diagram](https://github.com/FrancisDunne/Active_Directory/files/15049021/Diagram.pdf)
+<a href="https://github.com/FrancisDunne/Active_Directory/files/15049021/Diagram.pdf">Diagram.pdf</a>
 
 This network diagram illustrates the topology of the Active Directory environment, showcasing the placement of domain controllers, organizational units (OUs), and client machines. It provides an overview of the network infrastructure supporting the Active Directory deployment.
 
