@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of the Active Directory project was to design and implement a robust directory service infrastructure for efficiently managing and centralizing network resources. The primary goal was to establish secure user authentication, authorization, and access control mechanisms, thereby enhancing overall network security and administrative efficiency.
+The Active Directory project was to design and implement a robust directory service infrastructure for efficiently managing and centralizing network resources. The primary goal was to establish secure user authentication, authorization, and access control mechanisms, thereby enhancing overall network security and administrative efficiency.
 
 ### Skills Learned
 
