@@ -3,11 +3,11 @@
 ## Objective
 Welcome to the Active Directory Project. In this project you will see how 
 organizations manage their resources such as users, computers and groups.
-This project will showcase how to install an active directory, create a 
-splunk instance where it will be ingesting events from a windows server.
-The windoows server will hold the active directory. You will also see
-events generated ingested from the target windows machine. The project will then 
-move on to perform a brute force attack using Kali Linux as our attacking
+This project will showcase how to install an active directory. It will show how 
+to create a splunk instance where it will be ingesting events from a windows 
+server.The windoows server will hold the active directory. You will also see
+events generated ingested from the target windows machine. The project will
+then move on to perform a brute force attack using Kali Linux as our attacking
 machine to see what telemetry it generates. This project will also use
 atomic redteam aswell.
 
