@@ -87,6 +87,12 @@ it generates. This project will also use atomic redteam aswell.
         <img src="https://img.shields.io/badge/-Edit%20the%20input%20file-0000FF?style=for-the-badge" />
       </a>
 
+9. After editing the inputs file we need to change the log on status to this system and restart:
+
+      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Change%20log%20on%20from%20This%20account%20to%20Local%20system%20account.png">
+        <img src="https://img.shields.io/badge/-Change%20log%20on%20from%20This%20account%20to%20Local%20system%20account-0000FF?style=for-the-badge" />
+      </a>
+
 
 
 
