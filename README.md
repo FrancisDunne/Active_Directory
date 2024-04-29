@@ -32,29 +32,39 @@ it generates. This project will also use atomic redteam aswell.
   
 ## Steps
 1. Create the Logical Diagram:
+
 <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Diagram.pdf" download>
     <img src="https://img.shields.io/badge/-Logical%20Diagram-0000FF?style=for-the-badge" />
 </a>
 
-3. After downloading neccessary tools we then need to configure the network:
+
+2. After downloading neccessary tools we then need to configure the network:
+
 <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Nat%20Network%20setup.png">
     <img src="https://img.shields.io/badge/-NAT%20Network%20Setup-0000FF?style=for-the-badge" />
 </a>
 
+
 3. Set up the static IP for Splunk:
+
 <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Static%20IP%20for%20Splunk.png">
     <img src="https://img.shields.io/badge/-Static%20IP%20for%20Splunk%20Server-0000FF?style=for-the-badge" />
 </a>
 
+
 4. Upload Splunks download to Ubuntu and start:
+
 <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Upload%20splunk%20download%20to%20Ubuntu.png">
     <img src="https://img.shields.io/badge/-Upload%20Splunk%20download%20to%20Ubuntu-0000FF?style=for-the-badge" />
 </a
 
+
 5. Configure the Target machine static IP:
+
 <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Configure%20Target%20machines%20static%20IP.png">
     <img src="https://img.shields.io/badge/-Target%20Machine%20static%20IP-0000FF?style=for-the-badge" />
 </a>
+
 
 6.
 
