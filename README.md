@@ -68,6 +68,11 @@ it generates. This project will also use atomic redteam aswell.
 
 6. Download Splunk Forwarder to the target machine:
 
+      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Download%20the%20splunk%20forwarder%20on%20target%20machine.png">
+        <img src="https://img.shields.io/badge/-Downloaded%20Splunk%20Forwarder-0000FF?style=for-the-badge" />
+      </a>
+
+
 
 
 
