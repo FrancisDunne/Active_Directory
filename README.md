@@ -123,6 +123,14 @@ it generates. This project will also use atomic redteam aswell.
       </a>
 
 
+14. In the Windows Server we now need to install the Active Directory Domain Services in the Service Manager:
+
+      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Install%20Active%20Directory%20Domain%20Services.png">
+        <img src="https://img.shields.io/badge/-Install%20Active%20Directory%20Domain%20Services-0000FF?style=for-the-badge" />
+      </a>
+
+
+
 
 
 
