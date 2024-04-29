@@ -74,6 +74,9 @@ it generates. This project will also use atomic redteam aswell.
       </a>
 
 
+7. Configuring sysmon on the target machine:
+
+
 
 
 
