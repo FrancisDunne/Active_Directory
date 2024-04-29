@@ -4,9 +4,9 @@
 In this project you will see how organizations manage their resources such as
 users, computers and groups.This project will showcase how to install an active 
 directory. It will show how to create a splunk instance where it will be 
-ingesting events from a windows server, this windoows server will hold the active 
+ingesting events from a windows server, this windows server will hold the active 
 directory. You will also see events ingested from the target windows machine that
-uses sysmon which is a windows system service and device driver that logs system 
+uses sysmon, which is a windows system service and device driver that logs system 
 activity to the Windows event log. The project will then move on to perform a
 brute force attack using Kali Linux as our attacking machine to see what telemetry 
 it generates. This project will also use atomic redteam aswell.
