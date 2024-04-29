@@ -50,6 +50,6 @@ it generates. This project will also use atomic redteam aswell.
     <img src="https://img.shields.io/badge/-Static%20IP%20for%20Splunk%20Server-0000FF?style=for-the-badge" />
 </a>
 
-4.
+4. Upload Splunks download to Ubuntu and start:
 
 
