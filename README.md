@@ -76,6 +76,11 @@ it generates. This project will also use atomic redteam aswell.
 
 7. Configuring sysmon on the target machine:
 
+      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Sysmon%20Download.png">
+        <img src="https://img.shields.io/badge/-Sysmon%20Download-0000FF?style=for-the-badge" />
+      </a>
+
+
 
 
 
