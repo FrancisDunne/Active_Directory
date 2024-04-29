@@ -137,6 +137,14 @@ it generates. This project will also use atomic redteam aswell.
       </a>
 
 
+16. We will now create some organizational units with users assigned to them:
+
+      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Create%20an%20organizational%20unit%20and%20unit.png">
+        <img src="https://img.shields.io/badge/-Create%20an%20organizational%20unit%20and%20unit-0000FF?style=for-the-badge" />
+      </a>
+
+
+
 
 
 
