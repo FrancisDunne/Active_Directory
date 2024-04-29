@@ -58,5 +58,11 @@ it generates. This project will also use atomic redteam aswell.
 
 5. Configure the Target machine static IP:
 
+<a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Configure%20Target%20machines%20static%20IP.png">
+    <img src="https://img.shields.io/badge/-Target%20Machine%20static%20IP-0000FF?style=for-the-badge" />
+</a>
+
+6.
+
 
 
