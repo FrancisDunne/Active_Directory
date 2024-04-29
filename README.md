@@ -31,9 +31,8 @@ it generates. This project will also use atomic redteam aswell.
 - Sysmon for generating telemetry to send over to Splunk.
   
 ## Steps
-Got it, here are the steps presented in bullet point form without numbering:
 
-- [Create our logical diagram.](https://github.com/FrancisDunne/Active_Directory/blob/main/Diagram.pdf)
+- [Create the logical diagram.](https://github.com/FrancisDunne/Active_Directory/blob/main/Diagram.pdf)
 
   ![Logical Diagram](https://img.shields.io/badge/-Logical%20Diagram-0000FF?style=for-the-badge)
 
