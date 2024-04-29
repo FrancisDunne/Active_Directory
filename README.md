@@ -31,26 +31,37 @@ it generates. This project will also use atomic redteam aswell.
 - Sysmon for generating telemetry to send over to Splunk.
   
 ## Steps
+1. Create the Logical Diagram:
+   
+<a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Diagram.pdf" download>
+    <img src="https://img.shields.io/badge/-Logical%20Diagram-0000FF?style=for-the-badge" />
+</a>
 
-- [Create the logical diagram.](https://github.com/FrancisDunne/Active_Directory/blob/main/Diagram.pdf)
+3. After downloading neccessary tools we then need to configure the network:
 
-  ![Logical Diagram](https://img.shields.io/badge/-Logical%20Diagram-0000FF?style=for-the-badge)
+<a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Nat%20Network%20setup.png">
+    <img src="https://img.shields.io/badge/-NAT%20Network%20Setup-0000FF?style=for-the-badge" />
+</a>
 
-- [After downloading necessary tools we then need to configure the network.](https://github.com/FrancisDunne/Active_Directory/blob/main/Nat%20Network%20setup.png)
+3. Set up the static IP for Splunk:
 
-  ![NAT Network Setup](https://img.shields.io/badge/-NAT%20Network%20Setup-0000FF?style=for-the-badge)
+<a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Static%20IP%20for%20Splunk.png">
+    <img src="https://img.shields.io/badge/-Static%20IP%20for%20Splunk%20Server-0000FF?style=for-the-badge" />
+</a>
 
-- [Set up the static IP for Splunk.](https://github.com/FrancisDunne/Active_Directory/blob/main/Static%20IP%20for%20Splunk.png)
+4. Upload Splunks download to Ubuntu and start:
 
-  ![Static IP for Splunk Server](https://img.shields.io/badge/-Static%20IP%20for%20Splunk%20Server-0000FF?style=for-the-badge)
+<a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Upload%20splunk%20download%20to%20Ubuntu.png">
+    <img src="https://img.shields.io/badge/-Upload%20Splunk%20download%20to%20Ubuntu-0000FF?style=for-the-badge" />
+</a
 
-- [Upload Splunks download to Ubuntu and start.](https://github.com/FrancisDunne/Active_Directory/blob/main/Upload%20splunk%20download%20to%20Ubuntu.png)
+5. Configure the Target machine static IP:
 
-  ![Upload Splunk download to Ubuntu](https://img.shields.io/badge/-Upload%20Splunk%20download%20to%20Ubuntu-0000FF?style=for-the-badge)
+<a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Configure%20Target%20machines%20static%20IP.png">
+    <img src="https://img.shields.io/badge/-Target%20Machine%20static%20IP-0000FF?style=for-the-badge" />
+</a>
 
-- [Configure the Target machine static IP.](https://github.com/FrancisDunne/Active_Directory/blob/main/Configure%20Target%20machines%20static%20IP.png)
-
-  ![Target Machine static IP](https://img.shields.io/badge/-Target%20Machine%20static%20IP-0000FF?style=for-the-badge)
+6.
 
 
 
