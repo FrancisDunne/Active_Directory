@@ -37,3 +37,5 @@ it generates. This project will also use atomic redteam aswell.
     <img src="https://img.shields.io/badge/-Logical%20Diagram-0000FF?style=for-the-badge" />
 </a>
 
+2. After downloading neccessary tools we then need to configure the network:
+
