@@ -38,4 +38,8 @@ it generates. This project will also use atomic redteam aswell.
 </a>
 
 2. After downloading neccessary tools we then need to configure the network:
+<a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Nat%20Network%20setup.png">
+    <img src="https://img.shields.io/badge/-NAT%20Network%20Setup-0000FF?style=for-the-badge" />
+</a>
+
 
