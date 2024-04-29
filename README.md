@@ -130,6 +130,13 @@ it generates. This project will also use atomic redteam aswell.
       </a>
 
 
+15. Next we can promote our Server to a Domain Controller:
+
+      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Promote%20the%20Windows%20Server%20to%20a%20Domain%20Controller.png">
+        <img src="https://img.shields.io/badge/-Promote%20the%20Windows%20Server%20to%20a%20Domain%20Controller-0000FF?style=for-the-badge" />
+      </a>
+
+
 
 
 
