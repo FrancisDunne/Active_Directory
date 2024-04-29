@@ -44,4 +44,12 @@ it generates. This project will also use atomic redteam aswell.
     <img src="https://img.shields.io/badge/-NAT%20Network%20Setup-0000FF?style=for-the-badge" />
 </a>
 
+3. Set up the static IP for Splunk:
+
+<a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Static%20IP%20for%20Splunk.png">
+    <img src="https://img.shields.io/badge/-Static%20IP%20for%20Splunk%20Server-0000FF?style=for-the-badge" />
+</a>
+
+4.
+
 
