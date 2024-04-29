@@ -81,6 +81,14 @@ it generates. This project will also use atomic redteam aswell.
       </a>
 
 
+8. Create an input.conf in the local folder of the Splunk Forwarder:
+
+      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Edit%20the%20input%20file.png">
+        <img src="https://img.shields.io/badge/-Edit%20the%20input%20file-0000FF?style=for-the-badge" />
+      </a>
+
+
+
 
 
 
