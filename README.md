@@ -109,6 +109,14 @@ it generates. This project will also use atomic redteam aswell.
       </a>
 
 
+12. Now we can search index=endpoint to see some events generated from our target machine:
+
+      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Search%20index%3Dendpoint%20in%20the%20search%20bar%20in%20splunk.png">
+        <img src="https://img.shields.io/badge/-Search%20index%3Dendpoint%20in%20the%20search%20bar%20in%20Splunk-0000FF?style=for-the-badge" />
+      </a>
+
+
+
 
 
 
