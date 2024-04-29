@@ -1,40 +1,35 @@
 # Active Directory
 
 ## Objective
-Welcome to the Active Directory Project. In this project you will see how 
-organizations manage their resources such as users, computers and groups.
-This project will showcase how to install an active directory. It will show how 
-to create a splunk instance where it will be ingesting events from a windows 
-server, this windoows server will hold the active directory. You will also see
-events ingested from the target windows machine that uses sysmon which is a 
-windows system service and device driver that logs system activity to the Windows 
-event log. The project will then move on to perform a brute force attack using 
-Kali Linux as our attacking machine to see what telemetry it generates. This 
-project will also use atomic redteam aswell.
+In this project you will see how organizations manage their resources such as
+users, computers and groups.This project will showcase how to install an active 
+directory. It will show how to create a splunk instance where it will be 
+ingesting events from a windows server, this windoows server will hold the active 
+directory. You will also seeevents ingested from the target windows machine that
+uses sysmon which is a windows system service and device driver that logs system 
+activity to the Windows event log. The project will then move on to perform a
+brute force attack using Kali Linux as our attacking machine to see what telemetry 
+it generates. This project will also use atomic redteam aswell.
 
 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
+- Understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Knowledge of network protocols and security vulnerabilities.
+
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
-
+- Splunk (SIEM) system for log ingestion and analysis.
+- Windows 10 OS system for target machine.
+- Windows server for Active Directory.
+- Kali Linux for attacking machine.
+- Splunk Universal Forwarder for sending data over to our Splunk server.
+- Sysmon for generating telemetry to send over to Splunk.
+  
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+1. Create our logical diagram.
