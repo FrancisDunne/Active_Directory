@@ -151,6 +151,14 @@ it generates. This project will also use atomic redteam aswell.
       </a>
 
 
+18. We can now join the Domain with our new user:
+
+      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Join%20the%20domain%20with%20the%20new%20user.png">
+        <img src="https://img.shields.io/badge/-Join%20the%20domain%20with%20the%20new%20user-0000FF?style=for-the-badge" />
+      </a>
+
+
+
 
 
 
