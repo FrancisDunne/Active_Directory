@@ -116,6 +116,9 @@ it generates. This project will also use atomic redteam aswell.
       </a>
 
 
+13. Now we need to do the same process for the Windows Server / Active Direwctory. We will configure the static IP:
+
+
 
 
 
