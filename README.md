@@ -52,4 +52,9 @@ it generates. This project will also use atomic redteam aswell.
 
 4. Upload Splunks download to Ubuntu and start:
 
+<a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Upload%20splunk%20download%20to%20Ubuntu.png">
+    <img src="https://img.shields.io/badge/-Upload%20Splunk%20download%20to%20Ubuntu-0000FF?style=for-the-badge" />
+</a>
+
+
 
