@@ -66,7 +66,7 @@ it generates. This project will also use atomic redteam aswell.
       </a>
 
 
-6.
+6. Download Splunk Forwarder to the target machine:
 
 
 
