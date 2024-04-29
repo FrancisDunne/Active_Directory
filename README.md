@@ -118,6 +118,11 @@ it generates. This project will also use atomic redteam aswell.
 
 13. Now we need to do the same process for the Windows Server / Active Direwctory. We will configure the static IP:
 
+      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Configure%20Windows%20Server%20Active%20Directory%20Static%20IP.png">
+        <img src="https://img.shields.io/badge/-Configure%20Windows%20Server%20Active%20Directory%20Static%20IP-0000FF?style=for-the-badge" />
+      </a>
+
+
 
 
 
