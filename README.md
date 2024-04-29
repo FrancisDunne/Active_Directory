@@ -102,6 +102,14 @@ it generates. This project will also use atomic redteam aswell.
       </a>
 
 
+11. Go to settings in splunk and configure the recieving to listen in on port 9997:
+
+      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Configure%20recieving%20to%20port%209997.png">
+        <img src="https://img.shields.io/badge/-Configure%20receiving%20to%20port%209997-0000FF?style=for-the-badge" />
+      </a>
+
+
+
 
 
 
