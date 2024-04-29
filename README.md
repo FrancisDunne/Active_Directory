@@ -33,3 +33,7 @@ it generates. This project will also use atomic redteam aswell.
 ## Steps
 
 1. Create our logical diagram.
+<a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Diagram.pdf" download>
+    <img src="https://img.shields.io/badge/-Logical%20Diagram-0000FF?style=for-the-badge" />
+</a>
+
