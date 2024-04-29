@@ -144,6 +144,14 @@ it generates. This project will also use atomic redteam aswell.
       </a>
 
 
+17. We will head over to our target machine now and change our Dns settings to point to our Domain Controller:
+
+      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Change%20Dns%20setting%20on%20Windows%20target%20.png">
+        <img src="https://img.shields.io/badge/-Change%20DNS%20setting%20on%20Windows%20target-0000FF?style=for-the-badge" />
+      </a>
+
+
+
 
 
 
