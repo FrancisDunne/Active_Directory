@@ -237,7 +237,9 @@ generate some alerts for future activity.
 
 - Let's head over to Splunk To view our logs from ART:
 
-    
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Viewing%20atomic%20red%20team%20logs%20in%20splunk.png">
+      <img src="https://img.shields.io/badge/-Viewing%20atomic%20red%20team%20logs%20in%20splunk-0000FF?style=for-the-badge" />
+    </a>
 
 
 
