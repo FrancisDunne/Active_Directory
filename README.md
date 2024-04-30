@@ -163,6 +163,11 @@ it generates. This project will also use atomic redteam aswell.
     </a>
 
 
+## Using Kali Linux to Perform a Brute Force Attack
+
+- 
+
+
 
 
 
