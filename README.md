@@ -172,6 +172,12 @@ it generates. This project will also use atomic redteam aswell.
     </a>
 
 
+- Next we will creake a directory to store our files for our attack.
+  We will use a tool name crowbar for our brute force attack.
+
+
+
+
 
 
 
