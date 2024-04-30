@@ -34,8 +34,8 @@ it generates. This project will also use atomic redteam aswell.
 - Create the Logical Diagram:
 
     <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Diagram.pdf" download>
-      img src="https://img.shields.io/badge/-Logical%20Diagram-0000FF?style=for-the-badge" />
-      </a>
+      <img src="https://img.shields.io/badge/-Logical%20Diagram-0000FF?style=for-the-badge" />
+    </a>
 
 
 - After downloading neccessary tools we then need to configure the network:
@@ -47,115 +47,115 @@ it generates. This project will also use atomic redteam aswell.
 
 - Set up the static IP for Splunk:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Static%20IP%20for%20Splunk.png">
-          <img src="https://img.shields.io/badge/-Static%20IP%20for%20Splunk%20Server-0000FF?style=for-the-badge" />
-      </a>
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Static%20IP%20for%20Splunk.png">
+        <img src="https://img.shields.io/badge/-Static%20IP%20for%20Splunk%20Server-0000FF?style=for-the-badge" />
+    </a>
 
 
-4. Upload Splunks download to Ubuntu and start:
+- Upload Splunks download to Ubuntu and start:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Upload%20Splunk%20to%20Ubuntu%20server.png">
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Upload%20Splunk%20to%20Ubuntu%20server.png">
         <img src="https://img.shields.io/badge/-Upload%20Splunk%20to%20Ubuntu%20server-0000FF?style=for-the-badge" />
-      </a>
+    </a>
 
 
 
-5. Configure the Target machine static IP:
+- Configure the Target machine static IP:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Configure%20Target%20machines%20static%20IP.png">
-          <img src="https://img.shields.io/badge/-Target%20Machine%20static%20IP-0000FF?style=for-the-badge" />
-      </a>
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Configure%20Target%20machines%20static%20IP.png">
+        <img src="https://img.shields.io/badge/-Target%20Machine%20static%20IP-0000FF?style=for-the-badge" />
+    </a>
 
 
-6. Download Splunk Forwarder to the target machine:
+- Download Splunk Forwarder to the target machine:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Download%20the%20splunk%20forwarder%20on%20target%20machine.png">
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Download%20the%20splunk%20forwarder%20on%20target%20machine.png">
         <img src="https://img.shields.io/badge/-Downloaded%20Splunk%20Forwarder-0000FF?style=for-the-badge" />
-      </a>
+    </a>
 
 
-7. Configuring sysmon on the target machine:
+- Configuring sysmon on the target machine:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Sysmon%20Download.png">
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Sysmon%20Download.png">
         <img src="https://img.shields.io/badge/-Sysmon%20Download-0000FF?style=for-the-badge" />
-      </a>
+    </a>
 
 
-8. Create an input.conf in the local folder of the Splunk Forwarder:
+= Create an input.conf in the local folder of the Splunk Forwarder:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Edit%20the%20input%20file.png">
+   <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Edit%20the%20input%20file.png">
         <img src="https://img.shields.io/badge/-Edit%20the%20input%20file-0000FF?style=for-the-badge" />
-      </a>
+  </a>
 
 
-9. After editing the inputs file we need to change the log on status to this system and restart:
+- After editing the inputs file we need to change the log on status to this system and restart:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Change%20log%20on%20from%20This%20account%20to%20Local%20system%20account.png">
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Change%20log%20on%20from%20This%20account%20to%20Local%20system%20account.png">
         <img src="https://img.shields.io/badge/-Change%20log%20on%20from%20This%20account%20to%20Local%20system%20account-0000FF?style=for-the-badge" />
-      </a>
+    </a>
 
 
-10. Log into Splunk and add a new index file called endpoint referencing to the input.conf:
+- Log into Splunk and add a new index file called endpoint referencing to the input.conf:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Create%20endpoint%20in%20indexes.png">
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Create%20endpoint%20in%20indexes.png">
         <img src="https://img.shields.io/badge/-Create%20endpoint%20in%20indexes-0000FF?style=for-the-badge" />
-      </a>
+    </a>
 
 
-11. Go to settings in splunk and configure the recieving to listen in on port 9997:
+- Go to settings in splunk and configure the recieving to listen in on port 9997:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Configure%20recieving%20to%20port%209997.png">
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Configure%20recieving%20to%20port%209997.png">
         <img src="https://img.shields.io/badge/-Configure%20receiving%20to%20port%209997-0000FF?style=for-the-badge" />
-      </a>
+    </a>
 
 
-12. Now we can search index=endpoint to see some events generated from our target machine:
+- Now we can search index=endpoint to see some events generated from our target machine:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Search%20index%3Dendpoint%20in%20the%20search%20bar%20in%20splunk.png">
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Search%20index%3Dendpoint%20in%20the%20search%20bar%20in%20splunk.png">
         <img src="https://img.shields.io/badge/-Search%20index%3Dendpoint%20in%20the%20search%20bar%20in%20Splunk-0000FF?style=for-the-badge" />
-      </a>
+    </a>
 
 
-13. Now we need to do the same process for the Windows Server / Active Direwctory. We will configure the static IP:
+- Now we need to do the same process for the Windows Server / Active Direwctory. We will configure the static IP:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Configure%20Windows%20Server%20Active%20Directory%20Static%20IP.png">
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Configure%20Windows%20Server%20Active%20Directory%20Static%20IP.png">
         <img src="https://img.shields.io/badge/-Configure%20Windows%20Server%20Active%20Directory%20Static%20IP-0000FF?style=for-the-badge" />
-      </a>
+    </a>
 
 
-14. In the Windows Server we now need to install the Active Directory Domain Services in the Service Manager:
+- In the Windows Server we now need to install the Active Directory Domain Services in the Service Manager:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Install%20Active%20Directory%20Domain%20Services.png">
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Install%20Active%20Directory%20Domain%20Services.png">
         <img src="https://img.shields.io/badge/-Install%20Active%20Directory%20Domain%20Services-0000FF?style=for-the-badge" />
-      </a>
+    </a>
 
 
-15. Next we can promote our Server to a Domain Controller:
+- Next we can promote our Server to a Domain Controller:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Promote%20the%20Windows%20Server%20to%20a%20Domain%20Controller.png">
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Promote%20the%20Windows%20Server%20to%20a%20Domain%20Controller.png">
         <img src="https://img.shields.io/badge/-Promote%20the%20Windows%20Server%20to%20a%20Domain%20Controller-0000FF?style=for-the-badge" />
-      </a>
+    </a>
 
 
-16. We will now create some organizational units with users assigned to them:
+- We will now create some organizational units with users assigned to them:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Create%20an%20organizational%20unit%20and%20unit.png">
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Create%20an%20organizational%20unit%20and%20unit.png">
         <img src="https://img.shields.io/badge/-Create%20an%20organizational%20unit%20and%20unit-0000FF?style=for-the-badge" />
-      </a>
+    </a>
 
 
-17. We will head over to our target machine now and change our Dns settings to point to our Domain Controller:
+- We will head over to our target machine now and change our Dns settings to point to our Domain Controller:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Change%20Dns%20setting%20on%20Windows%20target%20.png">
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Change%20Dns%20setting%20on%20Windows%20target%20.png">
         <img src="https://img.shields.io/badge/-Change%20DNS%20setting%20on%20Windows%20target-0000FF?style=for-the-badge" />
-      </a>
+    </a>
 
 
-18. We can now join the Domain with our new user:
+- We can now join the Domain with our new user:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Join%20the%20domain%20with%20the%20new%20user.png">
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Join%20the%20domain%20with%20the%20new%20user.png">
         <img src="https://img.shields.io/badge/-Join%20the%20domain%20with%20the%20new%20user-0000FF?style=for-the-badge" />
-      </a>
+    </a>
 
 
 
