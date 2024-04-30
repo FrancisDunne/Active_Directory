@@ -2,14 +2,14 @@
 
 ## Objective
 In this project you will see how organizations manage their resources such as
-users, computers and groups.This project will showcase how to install an active 
+users, computers and groups. This project will showcase how to install an active 
 directory. It will show how to create a splunk instance where it will be 
 ingesting events from a windows server, this windows server will hold the active 
 directory. You will also see events ingested from the target windows machine that
 uses sysmon, which is a windows system service and device driver that logs system 
 activity to the Windows event log. The project will then move on to perform a
-brute force attack using Kali Linux as our attacking machine to see what telemetry 
-it generates. This project will also use atomic red team so we can see how to
+brute force attack using Kali Linux as our attacking machine. We will see what telemetry 
+it generates. This project will also use atomic red team (ART) so we can see how to
 generate some alerts for future activity. 
 
 
