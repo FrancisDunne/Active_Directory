@@ -194,7 +194,7 @@ it generates. This project will also use atomic redteam aswell.
     </a>
 
 
-- We will go over to our target machine and enable remote desktop with our previous users we created:
+- We will go over to our target machine and enable remote desktop under our previous users we created:
 
     <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Enable%20remote%20desktop.png">
       <img src="https://img.shields.io/badge/-Enable%20remote%20desktop-0000FF?style=for-the-badge" />
