@@ -118,7 +118,7 @@ it generates. This project will also use atomic redteam aswell.
         <img src="https://img.shields.io/badge/-Search%20index%3Dendpoint%20in%20the%20search%20bar%20in%20Splunk-0000FF?style=for-the-badge" />
     </a>
 
-## Windows Server Config
+## Windows Server / Active Directory Config
 
 - Now we need to do the same process for the Windows Server / Active Direwctory. We will configure the static IP:
 
