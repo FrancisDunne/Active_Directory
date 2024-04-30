@@ -9,7 +9,8 @@ directory. You will also see events ingested from the target windows machine tha
 uses sysmon, which is a windows system service and device driver that logs system 
 activity to the Windows event log. The project will then move on to perform a
 brute force attack using Kali Linux as our attacking machine to see what telemetry 
-it generates. This project will also use atomic redteam aswell.
+it generates. This project will also use atomic red team so we can see how to
+generate some alerts for future activity. 
 
 
 
@@ -19,6 +20,7 @@ it generates. This project will also use atomic redteam aswell.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Knowledge of network protocols and security vulnerabilities.
+- Ability to build alerts with (ART) so we can detect on specific activity.
 
 
 ### Tools Used
@@ -28,6 +30,8 @@ it generates. This project will also use atomic redteam aswell.
 - Windows server for Active Directory.
 - Kali Linux for attacking machine.
 - Splunk Universal Forwarder for sending data over to our Splunk server.
+- Sysmon for logging system activity.
+- Atomic Red Team (ART) for building alerts.
   
 ## Steps
 
