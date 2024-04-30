@@ -224,6 +224,13 @@ it generates. This project will also use atomic redteam aswell.
     </a>
 
 
+- Next we perform an atomic red team using a specific technique i.d:
+
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Performing%20atomic%20red%20team%20.png">
+      <img src="https://img.shields.io/badge/-Performing%20atomic%20red%20team-0000FF?style=for-the-badge" />
+    </a>
+
+
 
 
 
