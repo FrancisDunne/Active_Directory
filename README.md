@@ -235,6 +235,10 @@ generate some alerts for future activity.
     </a>
 
 
+- Let's head over to Splunk To view our logs from ART:
+
+    
+
 
 
 
