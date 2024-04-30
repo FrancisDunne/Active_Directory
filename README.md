@@ -180,6 +180,14 @@ it generates. This project will also use atomic redteam aswell.
     </a>
 
 
+- We will use a wordlist built in on kali called rockyou and save it to our new directory we created:
+
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Rockyou.png">
+      <img src="https://img.shields.io/badge/-Rockyou-0000FF?style=for-the-badge" />
+    </a>
+
+
+
 
 
 
