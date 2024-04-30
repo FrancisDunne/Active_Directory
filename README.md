@@ -187,6 +187,14 @@ it generates. This project will also use atomic redteam aswell.
     </a>
 
 
+- Next we will take the first 20 lines from our rockyou wordlist and save it to a password.txt file:
+
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Save%2020%20lines%20to%20a%20password.txt%20file.png">
+      <img src="https://img.shields.io/badge/-Save%2020%20lines%20to%20a%20password.txt%20file-0000FF?style=for-the-badge" />
+    </a>
+
+
+
 
 
 
