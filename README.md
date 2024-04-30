@@ -31,21 +31,21 @@ it generates. This project will also use atomic redteam aswell.
 - Sysmon for generating telemetry to send over to Splunk.
   
 ## Steps
-1. Create the Logical Diagram:
+- Create the Logical Diagram:
 
-      <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Diagram.pdf" download>
-       <img src="https://img.shields.io/badge/-Logical%20Diagram-0000FF?style=for-the-badge" />
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Diagram.pdf" download>
+      img src="https://img.shields.io/badge/-Logical%20Diagram-0000FF?style=for-the-badge" />
       </a>
 
 
-2. After downloading neccessary tools we then need to configure the network:
+- After downloading neccessary tools we then need to configure the network:
 
    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Nat%20Network%20setup.png">
       <img src="https://img.shields.io/badge/-NAT%20Network%20Setup-0000FF?style=for-the-badge" />
     </a>
 
 
-3. Set up the static IP for Splunk:
+- Set up the static IP for Splunk:
 
       <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Static%20IP%20for%20Splunk.png">
           <img src="https://img.shields.io/badge/-Static%20IP%20for%20Splunk%20Server-0000FF?style=for-the-badge" />
