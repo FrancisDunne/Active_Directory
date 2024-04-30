@@ -208,6 +208,14 @@ it generates. This project will also use atomic redteam aswell.
     </a>
 
 
+- After we done the attack lets head over to our Splunk and check out our attack performed:
+
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Analyzing%20our%20tsmith%20attack%20on%20Splunk.png">
+      <img src="https://img.shields.io/badge/-Analyzing%20our%20tsmith%20attack%20on%20Splunk-0000FF?style=for-the-badge" />
+    </a>
+
+
+
 
 
 
