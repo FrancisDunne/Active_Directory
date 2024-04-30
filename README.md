@@ -165,7 +165,12 @@ it generates. This project will also use atomic redteam aswell.
 
 ## Using Kali Linux to Perform a Brute Force Attack
 
-- 
+- We will configure Kali Linux static IP:
+
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Setting%20Kali%20Linux%20Static%20IP.png">
+        <img src="https://img.shields.io/badge/-Setting%20Kali%20Linux%20Static%20IP-0000FF?style=for-the-badge" />
+    </a>
+
 
 
 
