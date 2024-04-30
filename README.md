@@ -217,7 +217,7 @@ it generates. This project will also use atomic redteam aswell.
 
 ## Implementing Atomic Red Team Tactics
 
-- We will downloa atomic red team in the command promt on our target machine:
+- We will download atomic red team in the command promt on our target machine:
 
     <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Install%20Atomic%20Red%20Team.png">
       <img src="https://img.shields.io/badge/-Install%20Atomic%20Red%20Team-0000FF?style=for-the-badge" />
