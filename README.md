@@ -201,6 +201,14 @@ it generates. This project will also use atomic redteam aswell.
     </a>
 
 
+- Lets use our crowbar tool now to brute force tsmith user with our list of passweords in our passwords.txt file:
+
+    <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Use%20crowbar%20to%20bruteforce%20tsmith%20user%20with%20password.txt%20file.png">
+      <img src="https://img.shields.io/badge/-Use%20crowbar%20to%20bruteforce%20tsmith%20user%20with%20password.txt%20file-0000FF?style=for-the-badge" />
+    </a>
+
+
+
 
 
 
