@@ -31,6 +31,9 @@ it generates. This project will also use atomic redteam aswell.
 - Sysmon for generating telemetry to send over to Splunk.
   
 ## Steps
+
+### Preparation
+
 - Create the Logical Diagram:
 
     <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Diagram.pdf" download>
@@ -44,6 +47,7 @@ it generates. This project will also use atomic redteam aswell.
       <img src="https://img.shields.io/badge/-NAT%20Network%20Setup-0000FF?style=for-the-badge" />
     </a>
 
+## Splunk Server Config
 
 - Set up the static IP for Splunk:
 
@@ -58,7 +62,7 @@ it generates. This project will also use atomic redteam aswell.
         <img src="https://img.shields.io/badge/-Upload%20Splunk%20to%20Ubuntu%20server-0000FF?style=for-the-badge" />
     </a>
 
-
+## Target Machine Config
 
 - Configure the Target machine static IP:
 
@@ -115,6 +119,7 @@ it generates. This project will also use atomic redteam aswell.
         <img src="https://img.shields.io/badge/-Search%20index%3Dendpoint%20in%20the%20search%20bar%20in%20Splunk-0000FF?style=for-the-badge" />
     </a>
 
+## Windows Server Config
 
 - Now we need to do the same process for the Windows Server / Active Direwctory. We will configure the static IP:
 
@@ -143,6 +148,7 @@ it generates. This project will also use atomic redteam aswell.
         <img src="https://img.shields.io/badge/-Create%20an%20organizational%20unit%20and%20unit-0000FF?style=for-the-badge" />
     </a>
 
+## Connect to Domain Controller Via Target Machine
 
 - We will head over to our target machine now and change our Dns settings to point to our Domain Controller:
 
