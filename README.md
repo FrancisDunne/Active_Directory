@@ -28,7 +28,6 @@ it generates. This project will also use atomic redteam aswell.
 - Windows server for Active Directory.
 - Kali Linux for attacking machine.
 - Splunk Universal Forwarder for sending data over to our Splunk server.
-- Sysmon for generating telemetry to send over to Splunk.
   
 ## Steps
 
