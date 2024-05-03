@@ -30,7 +30,7 @@ generate some alerts for future activity.
 - Windows server for Active Directory.
 - Kali Linux for attacking machine.
 - Splunk Universal Forwarder for sending data over to our Splunk server.
-- Sysmon for logging system activity.
+- Sysmon for logging system activities.
 - Atomic Red Team (ART) for building alerts.
   
 ## Steps
