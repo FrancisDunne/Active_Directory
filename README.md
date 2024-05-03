@@ -37,7 +37,7 @@ generate some alerts for future activity.
 
 ### Preparation
 
-- Create the Logical Diagram:
+- Firstly we will create the Logical Diagram:
 
     <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Diagram.pdf" download>
       <img src="https://img.shields.io/badge/-Logical%20Diagram-0000FF?style=for-the-badge" />
