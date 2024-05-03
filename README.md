@@ -20,7 +20,7 @@ generate some alerts for future activity.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Knowledge of network protocols and security vulnerabilities.
-- Ability to build alerts with (ART) so we can detect on specific activity.
+- Ability to build alerts with (ART) so we can detect on specific activities.
 
 
 ### Tools Used
