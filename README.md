@@ -18,6 +18,7 @@ generate some alerts for future activity.
 
 - Understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
+- Active directory user and group management.
 - Ability to generate and recognize attack signatures and patterns.
 - Knowledge of network protocols and security vulnerabilities.
 - Ability to build alerts with (ART) so we can detect on specific activities.
