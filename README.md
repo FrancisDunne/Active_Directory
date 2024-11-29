@@ -60,7 +60,7 @@ generate some alerts for future activity.
     </a>
 
 
-- Upload Splunks download to Ubuntu and start:
+- Upload Splunks download to Ubuntu and boot:
 
     <a href="https://github.com/FrancisDunne/Active_Directory/blob/main/Upload%20Splunk%20to%20Ubuntu%20server.png">
         <img src="https://img.shields.io/badge/-Upload%20Splunk%20to%20Ubuntu%20server-0000FF?style=for-the-badge" />
